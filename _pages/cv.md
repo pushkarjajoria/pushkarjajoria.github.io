@@ -7,10 +7,7 @@ author_profile: true
 **Pushkar Jajoria**  
 PhD Researcher, Spoken Language Systems (LSV)  
 Saarland University, Saarbrücken, Germany  
-Email: [pushkarjajoria@gmail.com](mailto:pushkarjajoria@gmail.com) · Phone: (+49) 152-179-82303  
 [GitHub](https://github.com/pushkarjajoria) · [LinkedIn](https://www.linkedin.com/in/pushkar-jajoria/) · [LSV Profile](https://www.lsv.uni-saarland.de/people/pushkar-jajoria/)
-
-[Download CV (PDF)](/files/cv.pdf)
 
 ## Education
 
