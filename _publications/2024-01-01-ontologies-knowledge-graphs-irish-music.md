@@ -1,7 +1,7 @@
 ---
 title: "Ontologies, Knowledge Graphs, and User Interfaces for Exploration of Irish Traditional Music"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-01-01-ontologies-knowledge-graphs-irish-music
 excerpt: 'Linking musical patterns in Irish folk music with knowledge graphs and exploration interfaces.'
 date: 2024-01-01
